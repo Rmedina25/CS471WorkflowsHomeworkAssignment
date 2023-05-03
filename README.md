@@ -11,6 +11,8 @@ The following options should be **disabled**/**unchecked**:
 - `Add .gitignore`
 - `Choose a license`
 
+
+
 <details><summary>Why make the repository public?</summary>
 
 :yawning_face: **tl;dr**: it will allow you to visualize the repository history and branches (see [visualization example](https://github.com/BoiseState/CS471-Assignments-Workflows/network)).
